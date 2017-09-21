@@ -1,0 +1,47 @@
+ul {
+  text-align: center;
+  background-color: #466995;
+  opacity: .5;
+  position: relative;
+  margin: 0px auto;
+  width:100%;
+  max-width: 100%;
+  margin: 0% 0% 0% 0%;
+  border-radius: 50px
+}
+
+li:hover {
+    color: #011435;
+}
+
+li {
+  color: #FFF;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  text-transform: uppercase;
+  display: inline-block;
+  letter-spacing: 4px;
+  width: 23%;
+  padding: 0% 0% 0% 0%;
+  text-align: center;
+  overflow: hidden;
+}
+
+body{
+  background: url("//im.vsco.co/aws-us-west-2/856a76/45695854/59c086a18951c46e90826e07/vsco59c086a7e830a.jpg?w=1100&h=825&dpr=1.25")
+}
+
+.intro {
+  color: #eaeaea;
+  background-color: #FFF;
+  text-align: center;
+  padding: 0px;
+}
+
+p {
+  max-width: 80%;
+  margin: 0% 0% 0% 10%;
+  font-size: 125%;
+  font-weight: bold;
+}
